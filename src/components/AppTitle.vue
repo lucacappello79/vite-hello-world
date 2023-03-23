@@ -31,7 +31,7 @@ export default {
   
 <style>
 .app-title {
-    color: white;
-    background-color: black;
+    color: blue;
+    font-style: italic;
 }
 </style>
