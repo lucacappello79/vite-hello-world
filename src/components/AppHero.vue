@@ -3,7 +3,6 @@
         <div>
             <slot></slot>
         </div>
-
     </div>
 </template>
 
@@ -31,7 +30,7 @@ export default {
 
 
   
-<style>
+<style scoped>
 .centered {
     display: flex;
     justify-content: center;

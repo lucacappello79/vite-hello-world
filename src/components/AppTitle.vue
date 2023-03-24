@@ -6,8 +6,6 @@
     </h1>
 </template>
 
-
-
   
 <script>
 
@@ -29,7 +27,7 @@ export default {
 
 
   
-<style>
+<style scoped>
 .app-title {
     color: blue;
     font-style: italic;
